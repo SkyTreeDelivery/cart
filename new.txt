@@ -1,1 +1,2 @@
 the new message
+the merge file
